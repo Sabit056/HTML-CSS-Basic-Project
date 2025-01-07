@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin: 100px;
+    padding: 100px;
+}
+.head{
+    height: 50px;
+    width: 300px;
+    text-align: right;
+    font-size: x-large;
+    padding: 1px;
+}
+.btn{
+    height: 71px;
+    width: 71px;
+    font-weight: bold;
+    font-size: large;
+    transition: 0.3;
+    margin: 2px 1px;
+}
